@@ -1,0 +1,12 @@
+#loader,
+#results {
+    display: none;
+}
+
+.fix-size-50 {
+    width: 50px;
+}
+
+.fix-size-100 {
+    width: 200px;
+}
