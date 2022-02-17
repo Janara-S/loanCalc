@@ -1,1 +1,1 @@
-# loanCalc
+# https://janara-s.github.io/loanCalc/
